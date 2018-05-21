@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/Programming Assignement 2/sprite1.png</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/Programming Assignement 2/sprite2.gif</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/Programming Assignement 2/sprite3.gif</File>
+  </SourceFiles>
+</SourceFileCollection>

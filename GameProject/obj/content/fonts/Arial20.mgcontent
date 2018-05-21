@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/fonts/Arial20.spritefont</SourceFile>
+  <SourceTime>2012-12-22T17:40:42-03:00</SourceTime>
+  <DestFile>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/bin/content/fonts/Arial20.xnb</DestFile>
+  <DestTime>2016-06-14T09:45:51.1160019-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T03:36:08-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T03:36:08-03:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

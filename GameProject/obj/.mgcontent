@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/graphics/burger.png</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/graphics/explosion.png</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/graphics/frenchfries.png</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/graphics/teddybear.png</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/graphics/teddybearprojectile.png</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/fonts/Arial20.spritefont</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/audio/BurgerDamage.wav</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/audio/BurgerDeath.wav</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/audio/BurgerShot.wav</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/audio/Explosion.wav</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/audio/TeddyBounce.wav</File>
+    <File>C:/Users/Marcelo/Google Drive/MOOC/Beginning C# with Game Programming - Coursera/GameProject/content/audio/TeddyShot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

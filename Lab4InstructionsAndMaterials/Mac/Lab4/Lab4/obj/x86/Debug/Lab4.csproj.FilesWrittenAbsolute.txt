@@ -1,0 +1,5 @@
+/Users/Tim/Documents/GDD 1200/Labs/Lab 4/Lab4/Lab4/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tim/Documents/GDD 1200/Labs/Lab 4/Lab4/Lab4/bin/Debug/Lab4.exe.mdb
+/Users/Tim/Documents/GDD 1200/Labs/Lab 4/Lab4/Lab4/bin/Debug/Lab4.exe
+/Users/Tim/Documents/GDD 1200/Labs/Lab 4/Lab4/Lab4/obj/x86/Debug/Lab4.exe
+/Users/Tim/Documents/GDD 1200/Labs/Lab 4/Lab4/Lab4/obj/x86/Debug/Lab4.exe.mdb
